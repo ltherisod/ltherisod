@@ -3,7 +3,7 @@
 ## Desarrolladora web Full-Stack MERN & Mobile App 
 
 <div align="center">
-  <img height="25em"  src="https://komarev.com/ghpvc/?username=ltherisod&label=Profile%20views&color=0e75b6&style=flat" alt="ltherisod" />
+  <img height="25em"  src="https://komarev.com/ghpvc/?username=ltherisod&label=Profile%20views&color=dd6387&style=flat" alt="ltherisod" />
 </div>
 
 ##
