@@ -3,6 +3,12 @@
 ## Desarrolladora web Full-Stack MERN & Mobile App 
 
 <div align="center">
+  <img height="25em"  src="https://komarev.com/ghpvc/?username=ltherisod&label=Profile%20views&color=0e75b6&style=flat" alt="ltherisod" />
+</div>
+
+##
+
+<div align="center">
   <a href="https://github.com/ltherisod">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ltherisod&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltherisod&layout=compact&langs_count=7&theme=dracula"/>
