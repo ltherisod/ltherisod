@@ -1,6 +1,6 @@
-## Hola! 👋
+## Hola! 👋 Soy Laura Therisod 😊
 
-## Soy Laura Therisod, desarrolladora web Full-Stack MERN & Mobile App 
+## Desarrolladora web Full-Stack MERN & Mobile App 
 
 <div align="center">
   <a href="https://github.com/ltherisod">
