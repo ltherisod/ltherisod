@@ -1,4 +1,4 @@
-## Hola! 👋 Soy Laura Therisod 😊
+## Hola! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Soy Laura Therisod 😊
 
 ## Desarrolladora web Full-Stack MERN & Mobile App 
 
