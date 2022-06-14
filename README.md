@@ -1,4 +1,4 @@
-## Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Laura Therisod 😊
+## Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px> I'm Laura Therisod 😊
 
 ## Full-Stack MERN & Mobile Apps Dev  
 
