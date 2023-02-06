@@ -1,6 +1,6 @@
 ## Hi! ✌️ I'm Laura Therisod 😊
 
-## Full-Stack MERN & Mobile Apps Dev  
+## Full-Stack MERN / VERN & Mobile Apps Dev  
 
 <div align="center">
   <img height="25em"  src="https://komarev.com/ghpvc/?username=ltherisod&label=Profile%20views&color=dd6387&style=flat" alt="ltherisod" />
@@ -41,7 +41,7 @@
   <div style="display: inline_block"><br>
      <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/>
   </div>
-  ##
+  
  
 <div> 
   <a href="https://www.youtube.com/channel/UCvycecFCO0-d_h2rnkC8USQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
