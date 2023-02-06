@@ -42,7 +42,7 @@
      <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/>
   </div>
   
- 
+ ##
 <div> 
   <a href="https://www.youtube.com/channel/UCvycecFCO0-d_h2rnkC8USQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:lauratherisod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
