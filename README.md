@@ -40,6 +40,7 @@
  
 </div>
   <div style="display: inline_block"><br>
+    <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="30"/>
      <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/>
      <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/>
